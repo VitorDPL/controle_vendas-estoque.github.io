@@ -1,0 +1,16 @@
+id,ref,number,quantidade,vendedor,data_venda,tipo_peca,valor
+196,9111,44,2," Vitor ",21/12/2023,"Calça Jeans",139.9
+197,9111,42,1," Vitor ",21/12/2023,"Calça Jeans",139.9
+199,1111,42,1,"  ",21/12/2023,"Vestido Curto",139.9
+200,1111,44,1,"  ",21/12/2023,"Vestido Curto",139.9
+201,1111,44,1," Vitor ",21/12/2023,"Vestido Curto",139.9
+202,1111,44,1," Vitor ",21/12/2023,"Vestido Curto",139.9
+203,1111,42,1,"  ",21/12/2023,"Vestido Curto",139.9
+204,1111,42,1," Vitor ",21/12/2023,"Vestido Curto",139.9
+205,4111,42,1," Mariana ",21/12/2023,"Vestido Curto",139.9
+206,3111,62,1," Vitor ",23/12/2023,"Vestido Curto",139.9
+207,9111,62,1," Vitor ",23/12/2023,"Calça Jeans",139.9
+208,9111,62,2," Vitor ",23/12/2023,"Calça Jeans",139.9
+209,9111,62,4," Vitor ",23/12/2023,"Calça Jeans",139.9
+210,9111,44,1," Vitor ",23/12/2023,"Calça Jeans",139.9
+211,5555,44,1," Vitor ",23/12/2023,Conjunto,200
